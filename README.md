@@ -137,8 +137,8 @@ AdaBoost confusion matrix on the test set: 713 TN, 227 FP, 16 FN, 26 TP. In a sc
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/izancuesta14/stroke-risk-prediction-ml.git
+cd stroke-risk-prediction-ml
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
